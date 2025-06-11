@@ -26,7 +26,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/j9G5tmNM/shaban-
 // add custom menu and mention reply image url   
 BOT_NAME: process.env.BOT_NAME || "MRS KATIE",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "𒋲𝐕𝐈𝐁𝐄 🩸 𒋲🩸ONLY𒋲⁩ Søɨŧ ŧᵾ đømɨnɇs , søɨŧ ŧᵾ ŧɇ łȺɨssɇs đømɨnɇɍ... Ⱥłøɍs fȺɨŧ łɇ ƀøn ȼħøɨx🕊️",
+STICKER_NAME: process.env.STICKER_NAME || "𝐕𝐈𝐁𝐄 🩸 🩸ONLY⁩ Søɨŧ ŧᵾ đømɨnɇs , søɨŧ ŧᵾ ŧɇ łȺɨssɇs đømɨnɇɍ... Ⱥłøɍs fȺɨŧ łɇ ƀøn ȼħøɨx🕊️",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
